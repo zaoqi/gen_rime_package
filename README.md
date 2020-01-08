@@ -3,7 +3,7 @@
 
 带有prelude,essay和地球拼音。
 
-使用：在GNU/Linux
+使用：在GNU/Linux 或 Termux (需要安裝p7zip)
 
 ```
 ./gen.sh
